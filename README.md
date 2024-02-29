@@ -1,5 +1,5 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: J</h3> Koti Sai Sankar
+<h3>Name: Koti Sai Sankar</h3>
 <h3>Register Number : 212222240111 </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
